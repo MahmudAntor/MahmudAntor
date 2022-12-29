@@ -7,9 +7,12 @@ My name is Antor and I'm currently doing a research based masters at [Brock Univ
 <!-- End -->
 
 ###Past Experiences
+
 Senior Software Engineer - [Red.Digital Limited](https://www.reddotdigitalit.com/)
+
 Software Engineer - [SSD-TECH](https://ssd-tech.io/)
-B.Sc. in CSE from [CUET](https://www.cuet.ac.bd/)
+
+B.Sc. in CSE from [CUET](https://www.cuet.ac.bd/) 
 
 I will be writing about different topics in here : [My Blog](https://MahmudAntor.github.io/)
  
