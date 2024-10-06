@@ -1,20 +1,69 @@
-### Hi there 👋
+# ANTOR MAHMUD   
+📧 antor.mahmud96@gmail.com | [LinkedIn](https://www.linkedin.com/in/antor-mahmud/)
 
-My name is Antor and I'm currently doing a research based masters at [Brock University](https://brocku.ca/). My professor and I will be working on Federated Learning. In simple terms this is a distributed machine learning strategy where data does not have to leave the origin, hence data privacy is maintained.
+---
 
-<!-- GitHub Readme Stats -->
-[![My github stats](https://github-readme-stats.vercel.app/api?username=MahmudAntor&show_icons=true&theme=radical)](https://github.com/MahmudAntor)
-<!-- End -->
+## EDUCATION
 
-###Past Experiences
+### Brock University  
+**Master of Science (M.Sc) in Computer Science**  
+*September 2022 – September 2024*  
+CGPA: 4.0/4.0 (96%)  
+- Developed a contrastive learning-based federated learning framework for knowledge graph completion.  
+**Keywords:** Privacy Preserving, AI, Link Prediction, Data Heterogeneity, Machine Learning
 
-Senior Software Engineer - [Red.Digital Limited](https://www.reddotdigitalit.com/)
+### Chittagong University of Engineering and Technology  
+**Bachelor of Science (B.Sc) in Computer Science and Engineering**  
+*April 2015 – August 2019*  
+CGPA: 3.21/4.0  
+- Smart Home IoT device security with Blockchain  
+**Keywords:** Blockchain, IoT, Smart Home Security, Distributed Systems, Edge Computing, Cloud Computing
 
-Software Engineer - [SSD-TECH](https://ssd-tech.io/)
+---
 
-B.Sc. in CSE from [CUET](https://www.cuet.ac.bd/) 
+## EXPERIENCE
 
-I will be writing about different topics in here : [My Blog](https://MahmudAntor.github.io/)
- 
+### Red Dot Digital Limited  
+Dhaka, Bangladesh  
+**Senior Software Engineer**  
+*June 2022 – August 2022*  
 
-You can [contact me](mailto:antor.mahmud96@gmail.com) if you think we could work together on an article or a project, or if you have any question/remark. If you would like to get to know more about me and my projects, feel free to check out my [resume](https://www.linkedin.com/in/antor-mahmud/).
+### SSD-TECH  
+Dhaka, Bangladesh  
+**Software Engineer, Backend & R&D**  
+*September 2019 – June 2022*  
+
+---
+
+## Skills
+
+### Programming Languages
+`Python` `C/C++` `Java` `JavaScript`
+
+### Databases
+`MySQL` `Redis` `MongoDB`
+
+### Libraries & Frameworks
+`Node.js` `Django` `Spark` `Pandas` `Numpy` `Scikit-learn` `Xgboost` `Kaldi`  `Hadoop` 
+
+### Other
+`Git` `Log4j` `ETL` `PowerBI` `Azure CI/CD` `Bash` `Trello` `npm` `Docker` `VMware`
+
+---
+
+## AWARDS
+
+- DGS Spring Research Fellowship  
+- Brock University Graduate Fellowship  
+- Brock University International Fellowship  
+- Brock University Research Fellowship
+
+---
+
+## INVOLVEMENTS
+
+- Technical Writer on [Medium](https://medium.com/@AntorMahmud)   
+- Finance Secretary, CUET Computer Club  
+- Web and IT Secretary, Andromeda Space & Robotics Research Organization, CUET  
+- Contributor, Google Translate Community  
+- General Secretary, Jonodhony, CUET (Cultural Organization)
