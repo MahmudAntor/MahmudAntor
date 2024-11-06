@@ -37,24 +37,30 @@ Dhaka, Bangladesh
 
 ## Skills
 
-### Programming Languages
-`Python` `C/C++` `Java` `JavaScript`
+- **Programming Languages**:  
+  Python, C#, C, C++, JavaScript, TypeScript, Java, PHP
 
-### Databases
-`MySQL` `Redis` `MongoDB`
+- **Machine Learning**:  
+  PyTorch, TensorFlow, Scikit-learn, XGBoost, Pandas, NumPy
 
-### Libraries & Frameworks
-`Node.js` `Django` `Spark` `Pandas` `Numpy` `Scikit-learn` `Xgboost` `Kaldi`  `Hadoop` 
+- **Databases**:  
+  MySQL, PostgreSQL, MongoDB, Redis, Firebase
 
-### Other
-`Git` `Log4j` `ETL` `PowerBI` `Azure CI/CD` `Bash` `Trello` `npm` `Docker` `VMware`
+- **Web Development**:  
+  Node.js, Vue.js, Django Rest Framework, FastAPI, HTML5, CSS3, Bootstrap
+
+- **DevOps**:  
+  AWS, Kubernetes, Docker, Logstash, Elastic Stack, Keycloak, RESTful APIs
+
+- **Other Tools**:  
+  Git, Jira, CI/CD, ETL, Postman, Hadoop
+
 
 ---
 
 ## AWARDS
 
 - DGS Spring Research Fellowship  
-- Brock University Graduate Fellowship  
 - Brock University International Fellowship  
 - Brock University Research Fellowship
 
